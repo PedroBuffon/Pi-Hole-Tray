@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="PiHoleTray" preserve="all" />
+  <assembly fullname="System.Windows.Forms" preserve="all" />
+  <assembly fullname="System.Drawing" preserve="all" />
+  <assembly fullname="System.Drawing.Common" preserve="all" />
+</linker>
